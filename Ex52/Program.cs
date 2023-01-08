@@ -1,6 +1,6 @@
-﻿Console.WriteLine("введите количество строк");
+﻿Console.WriteLine("Введите количество строк");
 int n = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("введите количество столбцов");
+Console.WriteLine("Введите количество столбцов");
 int m = Convert.ToInt32(Console.ReadLine());
 
 int[,] numbers = new int[n, m];
